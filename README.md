@@ -1,1 +1,3 @@
 # Curves
+
+![](plot.png)
